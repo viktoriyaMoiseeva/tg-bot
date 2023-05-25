@@ -1,0 +1,4 @@
+.idea
+/node_modules
+congig/default.json
+congig/production.json
