@@ -1,4 +1,4 @@
 .idea
 /node_modules
-congig/default.json
-congig/production.json
+/config/default.json
+/config/production.json
